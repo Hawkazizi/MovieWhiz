@@ -53,6 +53,5 @@ Shahin Azizi
 [Your Contact Information]
 
 <!-- Placeholder for Images and Previews -->
-![Project Preview 1](/path/to/preview/image1.png)
-![Project Preview 2](/path/to/preview/image2.png)
+![Project Preview 2](./MovieWhizAsset.png)
 
