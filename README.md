@@ -48,5 +48,7 @@ Shahin Azizi
 [hawk.azizi1@gmail.com]
 
 <!-- Placeholder for Images and Previews -->
+##Preview of MovieWhiz
+
 ![Project Preview 2](./MovieWhizAsset.png)
 
