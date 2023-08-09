@@ -1,0 +1,10 @@
+.Suggestion {
+  background-color: aquamarine;
+}
+
+.corrected {
+  font-size: large;
+  font-weight: bold;
+  color: red;
+  cursor: pointer;
+}
