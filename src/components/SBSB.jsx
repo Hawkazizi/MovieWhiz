@@ -1,3 +1,4 @@
+import React from "react";
 import { useState } from "react";
 import SearchBar from "./searchBar";
 import SuggestionBar from "./suggestionBar";
@@ -51,10 +52,9 @@ const SBSB = () => {
           {undefined ? (
             ""
           ) : (
-            <a className="corrected" onClick={clickHandler}>
-              {correct[0]} or {correct[1]} or {correct[2]} or {correct[3]} or{" "}
-              {correct[4]}?
-            </a>
+            <button className="corrected" onClick={clickHandler} alt="no found">
+              {correct[0]}
+            </button>
           )}
         </p>
       )}

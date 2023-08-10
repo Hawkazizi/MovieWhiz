@@ -1,4 +1,5 @@
 import "./styles/searchBar.css";
+import React from "react";
 
 const SearchBar = (props) => {
   const changeHandler = (event) => {
